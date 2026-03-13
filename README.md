@@ -43,7 +43,7 @@ The live platform is available at: **https://verial.co.nz**
 - Marketplace payment flows using Stripe Connect
 
 ## My Role
-Damian is the founder and full-stack developer of Verial. Responsibilities include product architecture, feature design, frontend and backend implementation, database schema design, third-party integrations, and deployment operations.
+I Damian am the founder and full-stack developer of Verial. Responsibilities include product architecture, feature design, frontend and backend implementation, database schema design, third-party integrations, and deployment operations.
 
 ## Architecture Overview
 At a high level, Verial uses a modern full-stack web architecture:
